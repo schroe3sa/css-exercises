@@ -1,0 +1,19 @@
+.paragraph-text {
+    background-color: #F4AFD9;
+    font-family: verdana, "dejavu sans", sans-serif;
+}
+
+#id {
+    color: #2B43F1;
+    font-size: 36px;
+}
+
+#font-size {
+    font-size: 24px;
+}
+
+#look-at-me {
+    background-color: #48BD60;
+    font-size: 24px;
+    font-weight: bold;
+}
